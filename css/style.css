@@ -204,6 +204,7 @@ header {
 	flex-direction: column;
 	gap: 10px;
 	margin: 0px 80px;
+	margin-top:-15px;
 }
 
 .hero-content h1 {
